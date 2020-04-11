@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`thedate component renders the ui as expected 1`] = `
+<div>
+  4/10/2020
+</div>
+`;
